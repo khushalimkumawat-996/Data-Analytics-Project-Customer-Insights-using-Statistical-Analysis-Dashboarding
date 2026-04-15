@@ -1,0 +1,2 @@
+# Data-Analytics-Project-Customer-Insights-using-Statistical-Analysis-Dashboarding
+📊 Customer Insights Analysis using Statistical Methods &amp; Hypothesis Testing (Python). Analyzed customer data using Python to find patterns and validate insights through hypothesis testing. Applied EDA, data cleaning, and visualization to support data-driven decisions. A key step in my data analytics journey. #DataAnalytics #Python #Statistics
